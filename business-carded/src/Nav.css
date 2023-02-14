@@ -1,0 +1,21 @@
+.top{
+    text-align: center;
+}
+.logos{
+    background-color: white;
+    width: 75%
+}
+
+h1, p{
+    color: black
+}
+
+.comp-desc{
+    color:#B28053
+}
+
+button{
+    width: 75%;
+    height: 40px;
+    font-weight: bold;
+}
