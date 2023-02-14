@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+h3, p{
+  margin: 15px
+}
+
+h3{
+  margin-top: 50px;
+  color: darkgray
+}
